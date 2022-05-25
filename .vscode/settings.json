@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6787f220-16b5-43bc-912c-345ca75099a1/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/amzhealthportal",
+    "appService.deploySubpath": "."
+}
